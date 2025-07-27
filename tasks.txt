@@ -1,0 +1,53 @@
+1:Make a Personal Info Page
+    Create a page that shows:
+
+    Your name as a heading
+
+    A short paragraph about yourself
+
+    Your age and city in a list 
+
+
+2:Create a Basic Image Page
+
+    Make a page with:
+
+    A heading: My Favorite Picture
+
+    An image (use any image URL from the internet)
+
+    A short caption under the image
+
+
+3:Make a Simple Link Page
+    Create a page with:
+
+    A heading: Useful Links
+
+    Three links to any websites you like (Google, YouTube, etc.)
+
+
+4:Embed a Video
+    Create a page with:
+
+    A heading: Watch This
+
+    Embed a YouTube video using <iframe>
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
+
+
+Tools
+
+
+
+ChatGPT can 

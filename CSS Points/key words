@@ -1,0 +1,91 @@
+CSS 
+Cascading Style sheet
+
+It is a language that is used to describe the (style) of a document.
+
+
+...
+
+
+INLINE CSS
+
+Inline CSS is used in Element with "style" attribute.
+
+<body>
+
+<div>
+
+<h1 style="color:red;">Welcome</h1>
+
+</div>
+
+
+...
+
+
+INTERNAL CSS
+
+Internal CSS used under head section by <style> Element.
+
+<head>
+
+<style>
+    
+h1{color:blue; background-color:green;}
+
+</style>
+
+</head>
+
+
+...
+
+
+EXTERNAL css
+
+Eternal CSS we link the CSS File with HTML File.
+
+    For an Exaample we saved the HTML file with (fileame class="html").
+
+    And we saved another file where we are using CSS with (filename.css).
+
+    then attach it in head section.
+
+    <link rel="stylesheet" href="filename.css">
+
+
+...
+
+
+    In CSS, an id= (id=paragraph1) is used to target a unique HTML element to apply styling or interact with it using javascript
+    HERE'S A BREAKDOWN OF ITS USES:
+(1) The (id) selector in CSS (prefixed with (#)) allows you to select a single HTML element with a matching...  
+
+
+...
+
+
+In CSS, a (class) is used to apply styles to one or more HTML elements and style them consistently without repeating code.
+
+WHY USE CLASSES IN CSS?
+
+(1) Reusable styles: You can define a class once and apply it to multiple element.
+(2) Separation of concerns:It helps keep your HTML structure separate from your design (CSS)
+
+
+
+🗃️ list-style: none;
+Removes the default bullets from the <ul> list.
+
+Keeps things clean and lets you style the list however you like.
+(This is standard for nav menus.)
+
+
+
+1. .book-card:hover
+Targets each element with the class book-card when the user’s mouse cursor hovers over it.
+
+2. transform: translateY(-5px);
+Moves the element upward by 5 pixels.
+
+Creates a subtle "lift" effect, making the card appear to pop off the page.
